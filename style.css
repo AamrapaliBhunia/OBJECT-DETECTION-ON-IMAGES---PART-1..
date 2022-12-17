@@ -1,0 +1,12 @@
+body{
+
+    background-size: cover;
+
+    background-position: center;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px hsl(297, 95%, 15%);
+    border-radius: 15px;
+}
